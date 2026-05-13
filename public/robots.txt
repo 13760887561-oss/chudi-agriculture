@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://kty6u84zcxuy.space.minimaxi.com/sitemap.xml
+Sitemap: https://cudy.netlify.app/sitemap.xml
 
 # Disallow admin area
 Disallow: /admin/
