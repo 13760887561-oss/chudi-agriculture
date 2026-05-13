@@ -1,0 +1,14 @@
+# robots.txt for 锄地农业科技官网
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://kty6u84zcxuy.space.minimaxi.com/sitemap.xml
+
+# Disallow admin area
+Disallow: /admin/
+Disallow: /api/
+
+# Crawl delay
+Crawl-delay: 1
